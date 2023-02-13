@@ -1,0 +1,8 @@
+code: show-case-microservices
+description: show-case-microservices
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  plugins:
+    - plugins/pn-3a0eefc4-13d51bef-entando-simple-ms-descriptor.yaml
+    - plugins/pn-c0e268b3-9f21bf63-entando-another-ms-descriptor.yaml
